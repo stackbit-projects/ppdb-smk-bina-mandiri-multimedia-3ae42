@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-27'
 thumb_img_path: images/tkj-removebg-preview.png
 thumb_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
-content_img_path: images/7.jpg
+content_img_path: images/terrific-mahogany.png
 content_img_alt: Icelandic horses
 template: post
 subtitle: >-
