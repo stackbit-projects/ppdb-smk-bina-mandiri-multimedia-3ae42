@@ -12,6 +12,7 @@ template: post
 subtitle: >-
   Deskripsi Singkat Mengenai Kejuruan Teknik Komputer dan Jaringan di SMK Bina
   Mandiri Multimedia
+canonical_url: 'http://psb.smkbm3.sch.id/'
 ---
 ## **Deskripsi**
 
