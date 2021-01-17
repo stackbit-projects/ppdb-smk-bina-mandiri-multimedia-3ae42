@@ -1,6 +1,6 @@
 ---
 title: Kejuruan Rekayasa Perangkat Lunak
-excerpt: 'RPL '
+excerpt: RPL adalah salah satu kejuruan yang mempelajari ilmu.....
 date: '2019-03-24'
 thumb_img_path: images/rpl (1).png
 thumb_img_alt: Kejuruan RPL
