@@ -1,9 +1,8 @@
 ---
 title: Kejuruan Teknik Komputer dan Jaringan
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  Teknik Komputer dan Jaringan adalah salah satu kejuruan yang mempelajari ilmu
+  .....
 date: '2019-03-27'
 thumb_img_path: images/tkj-removebg-preview (1).png
 thumb_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
