@@ -9,7 +9,7 @@ date: '2019-03-24'
 thumb_img_path: images/rpl (1).png
 thumb_img_alt: Kejuruan RPL
 content_img_path: images/panoramic-sloth.png
-content_img_alt: Fushimi Inari Shrine in Kyoto
+content_img_alt: Kejuruan RPL
 template: post
 ---
 
