@@ -1,23 +1,34 @@
 ---
-title: Fragments of Iceland
+title: Kejuruan Teknik Komputer dan Jaringan
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
   making it the most sparsely populated country in Europe.
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
-thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
-content_img_alt: Icelandic horses
+thumb_img_path: images/tkj-removebg-preview.png
+thumb_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
+content_img_path: images/terrific-mahogany.png
+content_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
 template: post
+subtitle: >-
+  Deskripsi Singkat Mengenai Kejuruan Teknik Komputer dan Jaringan di SMK Bina
+  Mandiri Multimedia
 ---
+## **Deskripsi**
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+Salah satu Kejuruan yang ada di SMK Bina Mandiri Multimedia adalah Teknik Komputer Jaringan yang mempelajari semua hal yang bergerak di bidang Informasi dan Teknologi dimana peserta didik jurusan TKJ di didik untuk mampu melakukan installasi jaringan komputer, baik itu jaringan komputer dalam rumah / kantor, antar kantor, antar kota, antar provinsi, bahkan antar negara.
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+## [](https://idn.sch.id/wp-content/uploads/2016/10/img\_580d643c97b28.png)**Materi yang dipelajari Siswa TKJ**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+**
+**kebutuhan manusia akan jaringan komputer terus meningkat. Setiap orang menuntut untuk bisa terhubung dengan orang lain walau terhalangi oleh jarak yang ratusan atau bahkan ribuan kilo. Setiap orang menuntut untuk dapat memperoleh informasi dengan cepat dan akurat. Dengan segala tuntutan tentang jaringan komputer tersebut, siswa TKJ harus dibekali dengan meteri-materi yang sesuai dengan kebutuhan di dunia kerja. Sehingga siswa lulusan TKJ memiliki skill untuk memenuhi segala tuntutan jaringan komputer di masa depan.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+##### **Materi yang akan dipelajari oleh siswa jurusan TKJ diantaranya adalah sebagai berikut :**
+
+**a. Cisco**, dimana Cisco adalah peralatan utama yang banyak digunakan pada Jaringan Area Luas atau Wide Area Network (WAN). Dengan cisco router, informasi dapat diteruskan ke alamat-alamat yang berjauhan dan berada di jaringan computer yang berlainan. Yang bertujuan untuk dapat meneruskan paket data dari suatu LAN ke LAN lainnya, Cisco router menggunakan tabel dan protocol routing yang berfungsi untuk mengatur lalu lintas data.
+
+**b. Mikrotik, **dimana mikrotik adalah sebuah sistem operasi berupa perangkat lunak yang digunakan untuk menjadikan komputer menjadi router jaringan. Mikrotik ini sendiri sangat berkembang di perususahaan tingkat kecil maupun menengah yang salah satunya adalah jaringan sekolah, perhotelan, perkantoran dll.
+Beberapa materi tentang yang dipelajari oleh siswa TKJ adalah  Bridge,	 Wireless,	 Static Routing, Firewall Filter,	 Firewall Mangle,	 Firewall, NAT Quality Of Service,	 Hotspot,	 VPN IP Tunnel,	 OSPF,	 Load Balance BGP,	 MPLS,	 User Manager.
+
+Nah, bagimana dengan penjelasan singkat diatas, menarik bukan? untuk bisa menjadi seperti itu, yuk gabung di SMK Bina Mandiri Multimedia dengan klik [Disini](psb.smkbm3.sch.id).
