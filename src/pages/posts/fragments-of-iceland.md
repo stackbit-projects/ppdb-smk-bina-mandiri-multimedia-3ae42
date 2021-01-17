@@ -8,7 +8,7 @@ date: '2019-03-27'
 thumb_img_path: images/tkj-removebg-preview.png
 thumb_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
 content_img_path: images/terrific-mahogany.png
-content_img_alt: Icelandic horses
+content_img_alt: Logo TKJ SMK Bina Mandiri Multimedia
 template: post
 subtitle: >-
   Deskripsi Singkat Mengenai Kejuruan Teknik Komputer dan Jaringan di SMK Bina
