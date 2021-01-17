@@ -10,7 +10,9 @@ thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 template: post
-subtitle: 'Deskripsi Singkat Mengenai '
+subtitle: >-
+  Deskripsi Singkat Mengenai Kejuruan Teknik Komputer dan Jaringan di SMK Bina
+  Mandiri Multimedia
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
